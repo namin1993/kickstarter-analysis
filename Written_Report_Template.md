@@ -3,13 +3,12 @@
 ## Overview of Project
 
 ### Purpose
-'''
+
 This project is about learning to interpret data within a data set through functions, pivot charts, and graphs on Excel. The specific questions we wish to interpret from a large Kickstarter Funding Dataset provided are:
 
 1.) The relationship between the launch month of a play project and its outcome
 2.) The retlationship between the funding goal on Kickstarter for plays and its outcome
 
-'''
 
 ## Analysis and Challenges
 
