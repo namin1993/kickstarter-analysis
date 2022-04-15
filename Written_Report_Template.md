@@ -15,7 +15,7 @@ This project is about learning to interpret data within a data set through funct
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater Outcomes based on Launch Date](https://myoctocat.com/assets/images/base-octocat.svg)
+![Theater Outcomes based on Launch Date](https://github.com/namin1993/kickstarter-analysis/blob/f323c7a6ea50840adba86d9e97caf51bfbf20888/Resources/Theater_Outcomes_vs_Launch.png)
 
 '''
 According to the **Theater Outcomes based on Launch Date** graph, there are several conclusions to draw from the data:
