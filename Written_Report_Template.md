@@ -7,6 +7,7 @@
 This project is about learning to interpret data within a data set through functions, pivot charts, and graphs on Excel. The specific questions we wish to interpret from a large Kickstarter Funding Dataset provided are:
 
 1.) The relationship between the launch month of a play project and its outcome
+
 2.) The retlationship between the funding goal on Kickstarter for plays and its outcome
 
 
@@ -16,30 +17,30 @@ This project is about learning to interpret data within a data set through funct
 
 ![Theater Outcomes based on Launch Date](https://github.com/namin1993/kickstarter-analysis/blob/f323c7a6ea50840adba86d9e97caf51bfbf20888/Resources/Theater_Outcomes_vs_Launch.png)
 
-'''
+```
 According to the **Theater Outcomes based on Launch Date** graph, there are several conclusions to draw from the data:
   - The most optimal date to launch a Kickstarter theater projects is around May. There is a greater range of successful fundraising campaigns to failed campaigns.
 
   - The worst month to launch a Kickstarter Theater projects is around December. There is almost a 50/50 chance the theater fundraising project will succeed or fail.
-'''
+```
 
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes Vs. Goals](https://github.com/namin1993/kickstarter-analysis/blob/2600ef4f3f2cbe51654d2569abcde0d78c376fd1/Resources/Outcomes_vs_Goals.png)
 
-'''
+```
 According to the **Outcomes Vs. Goals** graph, there are several conclusions to draw from the data:
   - A Kickstarter funded Play will most likely succeeed if the funding goal is under $1000, ignoring currency conversion. 76% of all plays that cost under $1,000 for funding were successfully paid for. We are not taking campaign launch date into account for the success rate of a play being funded.
 
   - A play that costs over $45,000+ will not likely be funded.
 
   - No Play funding project has ever been canceled regardless of the amount requested.
-'''
+```
 
 ### Challenges and Difficulties Encountered
-'''
+```
 One of the challenges I had with this project was using the COUNTIFS formula properly since I had to make sure the expression written used the correct reference values when I copy and pasted the formula for each Goal outcome. I couldn't think of a faster way to write out the contional statements within the COUNTIFS formula
-'''
+```
 
 ## Results
 
