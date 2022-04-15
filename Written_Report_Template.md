@@ -26,7 +26,7 @@ According to the **Theater Outcomes based on Launch Date** graph, there are seve
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes Vs. Goals](https://myoctocat.com/assets/images/base-octocat.svg)
+![Outcomes Vs. Goals](https://github.com/namin1993/kickstarter-analysis/blob/2600ef4f3f2cbe51654d2569abcde0d78c376fd1/Resources/Outcomes_vs_Goals.png)
 
 '''
 According to the **Outcomes Vs. Goals** graph, there are several conclusions to draw from the data:
